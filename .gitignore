@@ -1,0 +1,43 @@
+.DS_Store
+**/__pycache__/
+
+# Virtual environments
+.env
+.env.*
+!.env.example
+.venv/
+.uv-cache/
+.tools/
+.npm-cache/
+**/.npm-cache/
+paperimation_website/dist/
+myenv/
+venv/
+env/
+
+# Node.js
+node_modules/
+
+media/
+output/
+output_old/
+out.txt
+
+# Manim RAG vector DB — large binary index, rebuild via
+# `python -m research_viz.preprocessing.build_manim_index`
+data/manim_docs/vector_db/
+
+# Claude artifacts
+.claude/
+
+# Backend job artifacts
+paperimation_website/apps/api/jobs/
+
+# Local archives / scratch (including older project exports)
+*.zip
+/tmp/
+/private/tmp/
+
+# Local logs from end-to-end smoke runs
+*.log
+/tmp/pipeline_*.log
