@@ -4,7 +4,7 @@ Owned and maintained by **Sagi Siddhartha** · [GitHub](https://github.com/space
 
 ## GitHub Pages site
 
-Live URL: **TODO — add after deployment.** Publish this repository's `docs/` folder through GitHub Pages, using `docs/index.html` as the entry point. Its images and videos already use relative paths. See the [website guide](paperimation_website/README.md) for deployment details.
+Live URL: **https://space-rock-0.github.io/Paperimation/**. GitHub Pages publishes this repository's `docs/` folder from `main`, using `docs/index.html` as the entry point. Its images and videos use relative paths. See the [website guide](paperimation_website/README.md) for deployment details.
 
 GitHub Pages hosts the static documentation and demos. The interactive React app and Python generation backend are separate; Pages cannot run FastAPI or Manim. Keep API keys on the backend.
 

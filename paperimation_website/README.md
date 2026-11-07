@@ -4,7 +4,7 @@ Owned and maintained by **Sagi Siddhartha** · [GitHub](https://github.com/space
 
 ## GitHub Pages
 
-Deployment URL: **TODO — add the live GitHub Pages URL after publishing.**
+Deployment URL: **https://space-rock-0.github.io/Paperimation/**
 
 Publish the repository's `docs/` folder through GitHub Pages. Its entry point is `docs/index.html`, with `docs/style.css` and existing relative image/video paths. This site does not require a React build.
 
